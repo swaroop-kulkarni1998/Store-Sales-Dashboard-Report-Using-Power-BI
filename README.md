@@ -31,14 +31,11 @@ This repository contains a comprehensive Power BI report for analyzing store sal
 
 ## Screenshot
 
-![1st ](https://github.com/tushar11720/Store-Sales-Dashboard-Report/assets/132842128/d313633e-045d-4b9b-a8ce-ebc1aba49464)
-
+Please refer `SAMPLE STORE.pdf` file for screenshots.
 
 ## Data Model 
 
 The data model used in this Power BI report is included in the repository as `Data Model.png`. This image provides a visual representation of the data relationships and tables used in the report, aiding in understanding the data structure and connections.
-
-![Data Model](https://github.com/tushar11720/Store-Sales-Dashboard-Report/assets/132842128/954b5215-2cb8-425e-bb7c-cf7dce00c813)
 
 ## Tools and Technology used-
 1. Microsoft Power BI
